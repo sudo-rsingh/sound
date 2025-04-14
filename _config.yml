@@ -1,0 +1,8 @@
+# Site settings
+title: My Simple Blog
+description: A minimalist blog built with GitHub Actions
+author: Your Name
+
+# Build settings
+markdown: kramdown
+permalink: /posts/:title/
